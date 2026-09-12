@@ -1,0 +1,11 @@
+{
+  "name": "Radhe Radhe Restaurant",
+  "short_name": "Radhe Radhe",
+  "description": "Authentic dining and culinary hospitality on Lohna Road, Dharampur, Manigachhi, Darbhanga, Bihar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#161016",
+  "theme_color": "#161016",
+  "lang": "en-IN",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
