@@ -56,7 +56,7 @@ export default function Home() {
             description: "Handmade Malwa paneer steeped in Kashmiri saffron, crushed coriander seeds, hung curd, and kasundi glaze.",
             price: "420.00",
             discountPrice: null,
-            imageUrl: "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
+            imageUrl: "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
             dietary: "veg",
             spiceLevel: 2,
             prepTimeMinutes: 25,
@@ -521,7 +521,7 @@ export default function Home() {
             className="group relative min-h-[360px] overflow-hidden rounded-[2.5rem] border border-[#d6a85e]/30 bg-cover bg-center shadow-2xl transition hover:border-[#d6a85e] block"
             style={{
               backgroundImage:
-                "url('https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=1000&q=80')",
+                "url('https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1000&q=80')",
             }}
           >
             <div className="absolute inset-0 bg-[#161016]/40 group-hover:bg-[#161016]/20 transition" />
